@@ -144,6 +144,9 @@ section .signin {
             0 0 50px #0f0,
             0 0 100px #0f0;
 }
+.main p{
+    color : #FFF;
+}
 @media screen  and (max-width: 600px){
     .signin{
         white-space: nowrap;
